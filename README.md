@@ -13,7 +13,7 @@ The web application will gather information through the CoinRanking API and filt
 Number of daily change, price, marketcap, ranking, all time high, etc
 
 # Project-Solana
-##Descrição 
+## Descrição 
 Projeto em Vue.Js desenvolvido com CoinRanking API para exibir informações da Blockchain Solana.
 
 ## Usabilidade 
